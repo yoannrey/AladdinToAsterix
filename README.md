@@ -8,9 +8,11 @@ You can run it from this url: <https://roman.primalmoonkey.fr>
 
 ### If you want to use it locally
 
-You can just clone the project and run the main.html page on your navigator.
+You can just clone the project and run this file on your navigator.
+>main.html
 
 
 
-*2022 Write by Yoann Rey* yoann.rey08@gmail.com
+
+*2022 Write by Yoann Rey* <yoann.rey08@gmail.com>
 
